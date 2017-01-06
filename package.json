@@ -1,0 +1,13 @@
+{
+  "name": "self-destructing-messages",
+  "version": "1.0.0",
+  "description": "self-destructing-messages",
+  "repository": "https://github.com/mickstevens/self-destructing-messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
